@@ -1,0 +1,1 @@
+Application written in C#. Inject a DLL, create a named pipe, read/write the stream.
